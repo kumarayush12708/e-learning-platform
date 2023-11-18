@@ -1,0 +1,110 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f7f7f7;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #3498db;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+}
+
+h1 {
+    margin: 0;
+}
+
+.course-details {
+    max-width: 800px;
+    margin: 20px auto;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+    padding: 40px;
+    box-sizing: border-box;
+    color: #333;
+}
+
+.course-details h2 {
+    font-size: 28px;
+    margin-bottom: 20px;
+}
+
+.course-highlights {
+    margin-bottom: 20px;
+}
+
+.course-highlights h3 {
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+
+.course-schedule,
+.testimonials,
+.resources,
+.projects,
+.cta {
+    margin-bottom: 40px;
+}
+
+.course-schedule h3,
+.testimonials h3,
+.resources h3,
+.projects h3,
+.cta h3 {
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+li {
+    margin-bottom: 10px;
+}
+
+.testimonial {
+    background-color: #ecf0f1;
+    padding: 15px;
+    border-radius: 8px;
+    margin-bottom: 20px;
+}
+
+.testimonial p {
+    margin: 0;
+}
+
+.resources ul,
+.projects ul {
+    padding-left: 20px;
+}
+
+.cta button {
+    background-color: #2ecc71;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    font-size: 18px;
+    padding: 14px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.cta button:hover {
+    background-color: #27ae60;
+}
+
+footer {
+    text-align: center;
+    padding: 20px;
+    background-color: #333;
+    color: #fff;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}

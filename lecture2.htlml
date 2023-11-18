@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1.0">
+<title>document</title>
+</head>
+<body>
+<h1>heading1</h1>
+<hr>
+<p1>This is paragraph1</p1>
+<br>
+<p2>This is paragraph2</p2>
+<p>
+Twinkle Twinkle<br>
+Little Star
+</p>
+<q>All that glitter is not gold</q>
+<blockquote>all that glitters
+,cite>--William Shakespeare</cite>
+</blockquote>
+<p>A dfn>computer</dfn> is an electronic device</p>
+</body>
+</html>
